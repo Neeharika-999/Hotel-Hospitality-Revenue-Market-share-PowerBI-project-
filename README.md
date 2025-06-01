@@ -62,6 +62,10 @@ Sometimes, no show=no refund, and that money goes for accounting purpose and not
 ## 3. Data Modelling:
 
 Used Star Schema and created one to many relationships.
+**Data Model Overview**
+
+![Data Model](./Screenshot%202025-05-31%20180518.png)
+
 
 ## 4. Build metrics using DAX
 -> **Calculated Columns**
