@@ -134,6 +134,7 @@ This hotel had great oppurtunities if they have the capabilities to adopt dynami
 
 Coming to the table below, based on least occupancy that is AtliQ Grand from Bangalore which has only 44.3%.
 
+![Additional Screenshot](./Screenshot%202025-06-01%20125749.png)
  [Property Key Metrics](./property%20key%20metrics.mp4)
 
 **Reasoning (Why is it happening?)**: 
