@@ -94,14 +94,18 @@ Add slicer: *mm yy*-> tile , *week no.*-> tile.
 
 * KPI: Revenue, RevPar, DSRN, Occupancy%, ADR, Realisation%. For every KPIs add Week Over Week Change(WoW)% below with icons.
 Add tooltips and add line chart for every KPIs with week no. and category such as revenue by week no. and category, RevPar by week no. and category, etc.
+![Revenue by Key Metrics](./Revenue%20by%20key%20metrics.png) 
 * Add Donut Chart: To measure the occupancy% by category.
 * Line Chart: Trends by Key metrics to compare between RevPar,occupancy% and ADR.
 * Bar and Line Chart: Realisation% and ADR by booking Platform.
 * Mini Table below KPI (Super Key Metrics): It is the most important metric, to check the Revpar,Occupancy%, ADR, Realisation% based on Weekdays and Weekends.
-  ### 📊 Super Metrics Video
+* ** 📈 Visual Reports**
+
+![Dashboard](./dashboard.png)
+  ** 📊 Super Metrics Video**
 
 [▶️ Watch Super Metrics](./super%20metrics.mp4)
-
+![KPIs and Super Metrics](./KPIs%20and%20super%20metrics.png)
 
 ## Insights , Reasoning and Recommendations:
 * **Coming to the first situation**, we must know that one of the biggest level , we have in hotel industry is **Pricing**. In Hotel Industry say I can sell a room on week days for 10k and for peak days like 25k to 30k.
@@ -151,6 +155,7 @@ To Increase the oppurtunites, we must check the other factors like defected Room
 **Insights (What did we find?)**:
 From the table below, coincidently, we found that the average rating is also low for the same hotel that has lowest occupancy.
 Another insights we got from the bar and line chart of Realisation% by Platform where offline channel has the highest rates and online channel have the lowest rates.
+![Realisation by Platform](./Realisation%25%20ADR%20by%20Platform.png) 
 📈 [Realisation % ADR by Platform](./Realisation%25%20adr%20by%20platform.mp4)
 
 **Reasoning(Why is it happening?)**:
