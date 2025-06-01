@@ -98,6 +98,10 @@ Add tooltips and add line chart for every KPIs with week no. and category such a
 * Line Chart: Trends by Key metrics to compare between RevPar,occupancy% and ADR.
 * Bar and Line Chart: Realisation% and ADR by booking Platform.
 * Mini Table below KPI (Super Key Metrics): It is the most important metric, to check the Revpar,Occupancy%, ADR, Realisation% based on Weekdays and Weekends.
+  ### 📊 Super Metrics Video
+
+[▶️ Watch Super Metrics](./super%20metrics.mp4)
+
 
 ## Insights , Reasoning and Recommendations:
 * **Coming to the first situation**, we must know that one of the biggest level , we have in hotel industry is **Pricing**. In Hotel Industry say I can sell a room on week days for 10k and for peak days like 25k to 30k.
@@ -123,6 +127,7 @@ This hotel had great oppurtunities if they have the capabilities to adopt dynami
 **Insights(What did we find?)**:
 
 Coming to the table below, based on least occupancy that is AtliQ Grand from Bangalore which has only 44.3%.
+ [Property Key Metrics](./property%20key%20metrics.mp4)
 
 **Reasoning (Why is it happening?)**: 
 
@@ -146,6 +151,7 @@ To Increase the oppurtunites, we must check the other factors like defected Room
 **Insights (What did we find?)**:
 From the table below, coincidently, we found that the average rating is also low for the same hotel that has lowest occupancy.
 Another insights we got from the bar and line chart of Realisation% by Platform where offline channel has the highest rates and online channel have the lowest rates.
+📈 [Realisation % ADR by Platform](./Realisation%25%20adr%20by%20platform.mp4)
 
 **Reasoning(Why is it happening?)**:
 Today, the market is such that any product available online drastically affected by ratings and reviews.And the product that are sold online has a higher probability of selling if it has higher rating in online. 
@@ -158,3 +164,4 @@ Weak Point-> They are not using differential pricing in their own channel as the
 To avoid this, we can use the promotions.
 
 **FINAL DASHBOARD OF THE HOTEL HOSPITALITY ANALYSIS**
+ 🎬 [Dashboard Walkthrough](./dashboard.mp4)
