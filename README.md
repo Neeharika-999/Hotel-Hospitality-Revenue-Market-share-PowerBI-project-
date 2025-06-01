@@ -94,15 +94,17 @@ Add slicer: *mm yy*-> tile , *week no.*-> tile.
 
 * KPI: Revenue, RevPar, DSRN, Occupancy%, ADR, Realisation%. For every KPIs add Week Over Week Change(WoW)% below with icons.
 Add tooltips and add line chart for every KPIs with week no. and category such as revenue by week no. and category, RevPar by week no. and category, etc.
+
 ![Revenue by Key Metrics](./Revenue%20by%20key%20metrics.png) 
+
 * Add Donut Chart: To measure the occupancy% by category.
 * Line Chart: Trends by Key metrics to compare between RevPar,occupancy% and ADR.
 * Bar and Line Chart: Realisation% and ADR by booking Platform.
 * Mini Table below KPI (Super Key Metrics): It is the most important metric, to check the Revpar,Occupancy%, ADR, Realisation% based on Weekdays and Weekends.
-* ** 📈 Visual Reports**
+*  📈 Visual Reports
 
 ![Dashboard](./dashboard.png)
-  ** 📊 Super Metrics Video**
+   📊 Super Metrics Video
 
 [▶️ Watch Super Metrics](./super%20metrics.mp4)
 ![KPIs and Super Metrics](./KPIs%20and%20super%20metrics.png)
@@ -131,6 +133,7 @@ This hotel had great oppurtunities if they have the capabilities to adopt dynami
 **Insights(What did we find?)**:
 
 Coming to the table below, based on least occupancy that is AtliQ Grand from Bangalore which has only 44.3%.
+![ER Diagram](./Screenshot%202025-05-31%20183324.png)
  [Property Key Metrics](./property%20key%20metrics.mp4)
 
 **Reasoning (Why is it happening?)**: 
@@ -168,5 +171,5 @@ Weak Point-> They are not using differential pricing in their own channel as the
 
 To avoid this, we can use the promotions.
 
-**FINAL DASHBOARD OF THE HOTEL HOSPITALITY ANALYSIS**
+**FINAL DASHBOARD RECORDING OF THE HOTEL HOSPITALITY ANALYSIS**
  🎬 [Dashboard Walkthrough](./dashboard.mp4)
